@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets">
+	<name>Reader is back</name>
+	<description>Switches the new position of "Reader" and "Photos" in gmail's topnav back to the way we like it.
+    This is a deviate work from https://github.com/erikwiffin/Put-Reader-Back
+    </description>
+  	<author href="https://github.com/fralik">Vadim Frolov</author>
+  	<icon src="icons/icon64.png"/>
+</widget>

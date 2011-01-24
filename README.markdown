@@ -6,7 +6,7 @@ in GMail's top navigation menu back to the way we love it.
 Originally from <https://github.com/erikwiffin/Put-Reader-Back>
 
 ## Pre-built packages
-See <https://github.com/fralik/Reader-is-back/downloads>
+Latest version on official extensions website <https://addons.opera.com/addons/extensions/details/reader-is-back/?display=en>
 
 ## How to install from source
 1. Zip everything;

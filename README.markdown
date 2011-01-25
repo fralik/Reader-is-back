@@ -1,6 +1,6 @@
 # Reader is back 2.0.
 # Google returned the Reader link back, this extension is not necessary any more!
-#
+#  
 
 
 Opera Extension. It switches the new position of "Reader" and "Photos" links

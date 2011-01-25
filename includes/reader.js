@@ -92,5 +92,5 @@ addreader.setTimeout = function()
 
 window.addEventListener('DOMContentLoaded', function() 
 {
-    addreader.setTimeout();
+    //addreader.setTimeout();
 }, false);

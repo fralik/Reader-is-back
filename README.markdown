@@ -1,5 +1,7 @@
 # Reader is back 2.0.
-# Google returned the Reader link back, this extension is not necessary any more.
+# Google returned the Reader link back, this extension is not necessary any more!
+#
+
 
 Opera Extension. It switches the new position of "Reader" and "Photos" links
 in GMail's top navigation menu back to the way we love it.

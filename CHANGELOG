@@ -1,0 +1,10 @@
+v 3.0 27-9-2011
+ [+] Rewrote script so that it handles localized names of Google services.
+ [+] Added nano-script to create extension package.
+ [+] Added CHANGELOG file.
+
+v 2.0
+ [+] Removed all functionality because Google put reader back.
+
+v 1.0
+ [+] Initial release.

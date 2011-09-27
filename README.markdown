@@ -1,7 +1,7 @@
 # Reader is back 3.0.
 #  
 
-** As for 27-09-2011 Reader link has disappeared again! **
+**As for 27-09-2011 Reader link has disappeared again!**
 
 Opera Extension. It switches the new position of "Reader" and "Photos" links
 in GMail's top navigation menu back to the way we love it.

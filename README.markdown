@@ -21,4 +21,4 @@ Latest version on official extensions website <https://addons.opera.com/addons/e
 If you use Windows and there is a 7z in your PATH variable, then you can use *create_package.cmd* nano-script to create *Reader-is-back.oex* package.
 
 ## Source code usage
-You can use this code in any way you like it.
+You can use this code in any way you like it .
